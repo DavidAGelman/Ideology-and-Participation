@@ -1,7 +1,7 @@
 # Ideology-and-Participation
 This repository contains all the code and data used in "Ideology and Participation at the Constitutional Convention of 1787."
 
-For ease of use, I have broken down the replication materials into smaller parts, with each part corresponding to a section of the paper.  The .R files contain code relevatn to that section of the paper regardless of the materials eventual location in either the actual paper of the supplementary materials.
+For ease of use, I have broken down the replication materials into smaller parts, with each part corresponding to a section of the paper.  The .R files contain code relevant to that section of the paper regardless of the materials eventual location in either the actual paper of the supplementary materials.  `"CC_Verbosity_Codebook.xlsx"` provides a description of all the variables used across the several different data files in this repository.
 
 ## Analysis of Delegate Verbosity
 This section corresponds to `"Aggregate_Delegate_Analysis_R_Code"` and uses `"Convention_Verbosity_Data_No_GWashington.csv"` and `"DelegateVerbosityandIdeology.csv"`.
