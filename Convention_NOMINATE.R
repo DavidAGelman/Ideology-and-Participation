@@ -24,7 +24,7 @@ library(foreign) # for using .dta files
 
 #------------------------------------------------
 # optional, set working directory
-setwd("/Users/DavidAGelman/Documents/PROJECTS/Dissertation/Written/Chapter 1 (Convention)/PRQ Submission/Final_Submission")
+setwd("~")
 
 #------------------------------------------------
 #load in the roll call data for the Constitutional Convention published in ICPSR study 33865
