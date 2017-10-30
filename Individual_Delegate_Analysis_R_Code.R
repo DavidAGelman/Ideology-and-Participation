@@ -10,7 +10,7 @@
 
 #------------------------------------------------
 # optional, set working directory
-setwd("/Users/DavidAGelman/Documents/PROJECTS/Dissertation/Written/Chapter 1 (Convention)/PRQ Submission/Final_Submission")
+setwd("~")
 
 # load in the needed libraries
 library(stargazer) # for easy and clean LaTeX tables
